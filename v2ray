@@ -11,4 +11,6 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&s
 vless://c6ec59aa-9c1d-402a-ba1d-b1c48df5da60@chatgpt.com:2053?encryption=none&security=tls&sni=dash.workingserverlite.eu&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=dash.workingserverlite.eu&path=%2FWorkingserver&mode=auto#%40filembad
 vless://703bdfdf-6480-4317-a643-8a4093296eb5@tg4.basevip4.best:2088?encryption=none&security=none&type=tcp&headerType=http#%40meliproxyy
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40canfingV2rayNG
+vless://403b2b80-703b-4498-eb92-96be57848d39@3.120.245.203:50256?encryption=none&security=none&type=tcp&headerType=none#ConfigV2RayNG
+
 
