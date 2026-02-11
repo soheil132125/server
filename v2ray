@@ -40,6 +40,9 @@ trojan://BxceQaOe@43.198.233.56:381?security=tls&sni=t.me%252Fripaojiedian&insec
 vless://510185cc-26ec-4b6d-aca0-1d04eced9414@ra.faraz360.ir:9850?encryption=none&security=none&type=tcp&headerType=http&host=pro30afzar.com#horn_proxy%206
 vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@fr.sv9.ir:6244?encryption=none&security=none&type=tcp&headerType=none#configV2rayNG-515
 vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@fr.sv9.ir:6244?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20ConfigV2RayNG
+vless://57aba857-2479-459c-be0a-c167ff60c5c4@188.0.247.176:56327?encryption=none&security=none&type=tcp&headerType=none#configV2rayNG-487
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?encryption=none&security=none&type=xhttp&host=hazaranetwork.bh&path=%2Fxhttp&mode=auto#configV2rayNG-591
+
 
 
 
